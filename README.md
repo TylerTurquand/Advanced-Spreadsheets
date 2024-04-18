@@ -9,5 +9,10 @@ Reviewed NYC Airbnb dataset and documented data cleaning steps. Filtered listing
 ## Results
 
 The Lower East Side was found to be the most popular area based on it having the highest number of review counts over the course of a year. 
+![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/1cda579a-be60-4fc9-aa1b-601ac3d352fc)
 Studio units had the highest average reviews in the Lower East Side, so they were considered the best bedroom size option.
+![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/c0e63348-9892-44aa-a3df-7b1c104553a2)
 Recommended 7 listings following these parameters that were estimated to generate $50,000 or more in revenue a year. 
+![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/cf33cd0b-2ab9-4b84-be85-ce4bf06d8bc7)
+
+
