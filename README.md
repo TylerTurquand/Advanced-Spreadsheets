@@ -2,21 +2,23 @@
 
 ## Overview
 
-This project aimed to provide valuable insights to a client interested in investing in the vacation rental market in Manhattan, New York City. Through meticulous data analysis of Airbnb listings, this project aimed to guide the client in targeting the most lucrative properties for future investment.
+This project aimed to provide valuable insights to a client interested in investing in the vacation rental market in Manhattan, New York City. Through meticulous data analysis of Airbnb listings, this project helps guide the client in targeting the most lucrative properties for future investments.
 
-Reviewed NYC Airbnb dataset and documented data cleaning steps. Filtered listings based on relevance, focusing on short-term rentals with a maximum 7-day stay requirement and active reviews. Prioritized neighborhoods based on popularity, which was based on review count over one year, and identified property sizes most suitable for vacation rentals. Utilized pivot tables for data aggregation and visualization to recommend specific property types for good investments in each neighborhood. Aggregated calendar data to determine occupancy rates and understand rental trends. Incorporated prices and average occupancy rates to provide realistic revenue projections. Explored the impact on property performance by factors such as superhost status, instant booking, and amenity options. Employed pivot tables and bar graphs to identify correlations between various attributes and rental success. Organized data, documented assumptions, and formatted spreadsheets for clarity and professionalism. Included an Executive Summary sheet for a concise overview of recommendations.
+## The Process
 
-## Results
+Reviewed NYC Airbnb dataset and documented data cleaning steps using Google Sheets. Filtered listings based on relevance, focusing on short-term rentals with a maximum 7-day stay requirement and active reviews. Removed all listings that did not have a review in the last year and had a minimum stay of longer than 7 days. Prioritized top 10 neighborhoods with an average rating of at least 4 and with the highest review counts within the last year. Utilized pivot tables for data aggregation to find the highest average rating for studio units to six bedroom units in each neighboorhood. This helped identify property sizes most suitable for vacation rentals. Used calendar and listing availability data to determine occupancy rates and understand rental trends. Incorporated prices and average occupancy rates to predict realistic revenue projections. Explored the impact on property performance by factors such as superhost status, instant booking, and amenity options. Employed pivot tables and bar graphs to identify correlations between these attributes and rental success. Organized data, documented assumptions, and formatted spreadsheets for clarity and professionalism. Included an Executive Summary sheet for a concise overview of recommendations.
+
+## The Results
 
 The Lower East Side was found to be the most popular area based on it having the highest number of review counts over the course of a year. 
 ![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/1cda579a-be60-4fc9-aa1b-601ac3d352fc)
 
-Studio units had the highest average reviews in the Lower East Side, so they were considered the best bedroom size option.
-![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/27a83194-c6f6-41a9-9151-0dc235aadbf8)
+Studio units had the highest average reviews in the Lower East Side, so they were considered the best bedroom size option.<img width="757" alt="Screenshot 2024-05-02 at 10 16 10 PM" src="https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/3fb36dd2-d961-4f23-a348-de4b5d9141c3">
 
+## Recommendation
 
+Recommended 7 studio unit listings that were estimated to generate $50,000 or more in revenue a year. 
 
-Recommended 7 listings following these parameters that were estimated to generate $50,000 or more in revenue a year. 
-![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/cf33cd0b-2ab9-4b84-be85-ce4bf06d8bc7)
+<img width="485" alt="Screenshot 2024-05-02 at 10 18 55 PM" src="https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/50cffa41-2627-4d72-8d19-b46ff635a16c">
 
 
