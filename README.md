@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aimed to provide valuable insights to a client interested in investing in the vacation rental market in Manhattan, New York City. Through meticulous data analysis of Airbnb listings, this project helps guide the client in targeting the most lucrative properties for future investments.
+This project aimed to provide valuable insights to a client interested in investing in the vacation rental market in New York City. Through meticulous data analysis of Airbnb listings, this project helps guide the client in targeting the most lucrative properties for future investments.
 
 ## The Process
 
