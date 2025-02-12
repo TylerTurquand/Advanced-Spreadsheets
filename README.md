@@ -8,7 +8,7 @@ This project aimed to provide valuable insights to a client interested in invest
 
 Reviewed NYC Airbnb dataset and documented data cleaning steps using Google Sheets. Filtered listings based on relevance, focusing on short-term rentals with a maximum 7-day stay requirement and active reviews. Removed all listings that did not have a review in the last year and had a minimum stay of longer than 7 days. Prioritized top 10 neighborhoods with an average rating of at least 4 and with the highest review counts within the last year. Utilized pivot tables for data aggregation to find the highest average rating for studio units to six bedroom units in each neighboorhood. This helped identify property sizes most suitable for vacation rentals. Used calendar and listing availability data to determine occupancy rates and understand rental trends. Incorporated prices and average occupancy rates to predict realistic revenue projections. Explored the impact on property performance by factors such as superhost status, instant booking, and amenity options. Employed pivot tables and bar graphs to identify correlations between these attributes and rental success. Organized data, documented assumptions, and formatted spreadsheets for clarity and professionalism. Included an Executive Summary sheet for a concise overview of recommendations.
 
-## The Results
+## Results
 
 The Lower East Side was found to be the most popular area based on it having the highest number of review counts over the course of a year. 
 ![image](https://github.com/TylerTurquand/Advanced-Spreadsheets/assets/151484458/1cda579a-be60-4fc9-aa1b-601ac3d352fc)
